@@ -14,4 +14,3 @@ function numberday(){
         document.getElementById('result').innerHTML= '31 ngay';
     }
 }
-numberday();
